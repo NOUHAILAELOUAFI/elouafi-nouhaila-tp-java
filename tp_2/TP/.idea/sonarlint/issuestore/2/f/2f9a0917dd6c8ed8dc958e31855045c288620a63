@@ -1,0 +1,23 @@
+
+E
+java:S1066<"/Merge this if statement with the enclosing one.(ÅŠ°Á
+´
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(¡ª¿×üÿÿÿÿ
+c	java:S100)"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ªŸ
+]
+java:S1854*"@Remove this useless assignment to local variable "gradePattern".(Ò§Ôµ8˜‡œ‹Ï1
+N
+java:S1481*"1Remove this unused "gradePattern" local variable.(Ò§Ôµ8‡œ‹Ï1
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(’Ñ¯åøÿÿÿÿ
+S	java:S106="9Replace this use of System.out or System.err by a logger.(¯ú÷šøÿÿÿÿ
+E
+java:S1128"(Remove this unused import 'sge.Helpers'.(ß©õ8©‡œ‹Ï1
+<
+java:S1128"&Remove this unused import 'sge.Utils'.(Üˆ
+M
+java:S1128
+"2Remove this unused import 'javax.xml.crypto.Data'.(¦¿çˆıÿÿÿÿ
+9
+java:S1128"$Remove this unused import 'java.io'.(¬›ãD
+J
+java:S1128"4Remove this unused import 'java.util.regex.Matcher'.(ëÅ›ã

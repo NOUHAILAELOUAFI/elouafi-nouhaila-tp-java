@@ -1,0 +1,44 @@
+
+f
+java:S1192]"KDefine a constant instead of duplicating this literal "\u001B[32m" 4 times.(‡×¿¡ÿÿÿÿÿ
+e
+java:S1192]"JDefine a constant instead of duplicating this literal "\u001B[0m" 4 times.(‡×¿¡ÿÿÿÿÿ
+ƒ
+java:S1192‚"lDefine a constant instead of duplicating this literal "An error occurred while appending to file: " 3 times.(ÁÑúÀ
+†
+java:S1192`"pDefine a constant instead of duplicating this literal "An error occurred while appending to the file: " 5 times.(Ü› ™
+a
+java:S1192:"FDefine a constant instead of duplicating this literal "Utils" 5 times.(õ­µ©ÿÿÿÿÿ
+o
+java:S1192Ÿ"XDefine a constant instead of duplicating this literal "src/sge/data/major.data" 3 times.(«§¨
+´
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(ìŸ¹óüÿÿÿÿ
+c	java:S1009"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ä´Ì
+c	java:S100>"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“°‚à
+c	java:S100D"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à˜Õİ
+h	java:S100J"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯Ÿ‚ııÿÿÿÿ
+c	java:S100P"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò½³Ğ
+l
+java:S3457]"Q%n should be used in place of \n to produce the platform-specific line separator.(‡×¿¡ÿÿÿÿÿ
+S	java:S106]"9Replace this use of System.out or System.err by a logger.(‡×¿¡ÿÿÿÿÿ
+N	java:S106`"9Replace this use of System.out or System.err by a logger.(Ü› ™
+S	java:S106r"9Replace this use of System.out or System.err by a logger.(ùµÛÇşÿÿÿÿ
+f
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ë¦B
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ë¦B
+O	java:S106‚"9Replace this use of System.out or System.err by a logger.(ÁÑúÀ
+T	java:S106”"9Replace this use of System.out or System.err by a logger.(ùµÛÇşÿÿÿÿ
+g
+java:S3457¢"Q%n should be used in place of \n to produce the platform-specific line separator.(°…Èj
+N	java:S106¢"9Replace this use of System.out or System.err by a logger.(°…Èj
+O	java:S106¥"9Replace this use of System.out or System.err by a logger.(ÁÑúÀ
+T	java:S106¸"9Replace this use of System.out or System.err by a logger.(ùµÛÇşÿÿÿÿ
+h
+java:S3457Å"Q%n should be used in place of \n to produce the platform-specific line separator.(Š½¾
+O	java:S106Å"9Replace this use of System.out or System.err by a logger.(Š½¾
+O	java:S106È"9Replace this use of System.out or System.err by a logger.(ÁÑúÀ
+T	java:S106Û"9Replace this use of System.out or System.err by a logger.(ùµÛÇşÿÿÿÿ
+M
+java:S1128"2Remove this unused import 'javax.xml.crypto.Data'.(¦¿çˆıÿÿÿÿ
+?
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å

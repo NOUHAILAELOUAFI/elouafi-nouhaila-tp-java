@@ -1,0 +1,57 @@
+
+t
+java:S1192\"WDefine a constant instead of duplicating this literal "\u001B[31m%s\u001B[0m
+" 4 times.(¤ÚÊô8»‰­²Í1
+Q
+java:S1066"/Merge this if statement with the enclosing one.(é¼¸ùÿÿÿÿ8½‰­²Í1
+j
+java:S2095)"MUse try-with-resources or close this "ExecutorService" in a "finally" clause.(úï‡8üŠ­²Í1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ïºƒÛøÿÿÿÿ8Œ‹­²Í1
+m
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(öÅÍG8”‹­²Í1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(öÅÍG8•‹­²Í1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ğû£Ò8–‹­²Í1
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(Á…Êº8™‹­²Í1
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(˜Ú Ñÿÿÿÿÿ8×‹­²Í1
+o
+java:S3776'"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(‚˜´8›‹­²Í1
+n
+java:S26773"LUse or store the value returned from "readLine" instead of throwing it away.(£­—âÿÿÿÿÿ8Å‹­²Í1
+I
+java:S19056"'Remove this unnecessary cast to "List".(Æ›ª¢ÿÿÿÿÿ8Ç‹­²Í1
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(êÜ¿«ıÿÿÿÿ8Ù‹­²Í1
+Z	java:S106@"9Replace this use of System.out or System.err by a logger.(ıØ¯´üÿÿÿÿ8ò‹­²Í1
+n
+java:S2677K"LUse or store the value returned from "readLine" instead of throwing it away.(£­—âÿÿÿÿÿ8á‹­²Í1
+I
+java:S1905N"'Remove this unnecessary cast to "List".(Æ›ª¢ÿÿÿÿÿ8ã‹­²Í1
+U	java:S106V"9Replace this use of System.out or System.err by a logger.(¤–›ã8ó‹­²Í1
+T	java:S106Y"9Replace this use of System.out or System.err by a logger.(Ø¹‘n8ö‹­²Í1
+n
+java:S3457\"Q%n should be used in place of \n to produce the platform-specific line separator.(¤ÚÊô8õ‹­²Í1
+U	java:S106\"9Replace this use of System.out or System.err by a logger.(¤ÚÊô8ˆŒ­²Í1
+I
+java:S1905h"'Remove this unnecessary cast to "List".(Æ›ª¢ÿÿÿÿÿ8ÿ‹­²Í1
+Z	java:S106l"9Replace this use of System.out or System.err by a logger.(ø”¾÷øÿÿÿÿ8ŠŒ­²Í1
+U	java:S106o"9Replace this use of System.out or System.err by a logger.(£Ê ´8ŒŒ­²Í1
+n
+java:S3457r"Q%n should be used in place of \n to produce the platform-specific line separator.(¤ÚÊô8‹Œ­²Í1
+U	java:S106r"9Replace this use of System.out or System.err by a logger.(¤ÚÊô8¥Œ­²Í1
+n
+java:S2677}"LUse or store the value returned from "readLine" instead of throwing it away.(£­—âÿÿÿÿÿ8”Œ­²Í1
+I
+java:S1905"'Remove this unnecessary cast to "List".(Æ›ª¢ÿÿÿÿÿ8—Œ­²Í1
+[	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(¢°ªÌÿÿÿÿÿ8§Œ­²Í1
+o
+java:S3457Œ"Q%n should be used in place of \n to produce the platform-specific line separator.(¤ÚÊô8¦Œ­²Í1
+V	java:S106Œ"9Replace this use of System.out or System.err by a logger.(¤ÚÊô8ÃŒ­²Í1
+o
+java:S2677–"LUse or store the value returned from "readLine" instead of throwing it away.(£­—âÿÿÿÿÿ8°Œ­²Í1
+J
+java:S1905˜"'Remove this unnecessary cast to "List".(Æ›ª¢ÿÿÿÿÿ8²Œ­²Í1
+V	java:S106¡"9Replace this use of System.out or System.err by a logger.(·Ğ”8ÆŒ­²Í1
+o
+java:S3457¥"Q%n should be used in place of \n to produce the platform-specific line separator.(¤ÚÊô8ÅŒ­²Í1
+V	java:S106¥"9Replace this use of System.out or System.err by a logger.(¤ÚÊô8Ç…¶²Í1
+v
+java:S1602¹"SRemove useless curly braces around statement and then remove useless return keyword(†‘øşÿÿÿÿ8ÕŒ­²Í1
